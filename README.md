@@ -19,3 +19,5 @@ A simple calculator built using HTML, CSS and JavaScript.
 ## How to Run
 
 Open the index.html file in a web browser.
+
+-- Git Recovery practice
